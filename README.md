@@ -5,11 +5,12 @@ W. Avy wants information about temperature trends before opening a surf shop. Sp
 SQLLite, SQLAlchemy, Jupyter Notebook, Pandas 
 
 # Results
-**June Summary**
- ![](/june.png)
- 
-**December Summary** 
- ![](/december.png)
+
+**June Summary     December Summary**  
+
+ ![](/june.png) ![](/december.png)
+
+---
  
 - The lowest temperature from December was only 8 degrees lower than the lowest temperature in June. There will be some cold days in both months. 
 - The average tempearture for each month are relatively close to one another - only 4 degrees hotter of a difference for June. 
