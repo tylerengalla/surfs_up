@@ -6,7 +6,7 @@ SQLLite, SQLAlchemy, Jupyter Notebook, Pandas
 
 # Results
 
-**------------June Summary -----------------------------December Summary**  
+**------------June Summary ---------------------------December Summary------------**  
 
  ![](/june.png) ![](/december.png)
 
